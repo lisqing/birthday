@@ -36,7 +36,25 @@ var config = {
      */
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
-        "今天是你的二十岁生日": "./imgs/birthday.jpg",
+        "这世界上最可爱的女孩子": "./imgs/zuikeai.jpeg",
+        "雯宝儿~": "./imgs/wenbaoer.jpg",
+        "今天是你的二十岁生日": "./imgs/ershisuishengri.jpg",
+        "这是我们在一起的": "./imgs/zheshiwomen.png",
+        "第四个生日了哦": "./imgs/disige.jpg",
+        "所谓二十岁": "./imgs/suoweiershisui.jpg",
+        "不过是心里住了两个十岁的小朋友": "./imgs/liangge.jpg",
+        "与这个世界交手的第二十一载": "./imgs/diershiyizai.jpg",
+        "愿你贪吃不胖": "./imgs/tanchibupang.jpg",
+        "愿你懒惰不丑": "./imgs/landuobuchou.jpg",
+        "愿你永远健康美好依旧": "./imgs/jiankangmeihao.jpg",
+        "愿你做过的美梦全都实现": "./imgs/meimengshixian.png",
+        "愿你永远都有好运气": "./imgs/xiaokeai.png",
+        "愿这岁月悠久": "./imgs/xiaokeai.png",
+        "我们即使不见亦能不散": "./imgs/bujianbusan.jpg",
+        "今年要吃好好的哦": "./imgs/xiaokeai.png",
+        "要把我家可爱猪猪喂胖胖": "./imgs/chihaohaode.jpg",
+        "然后抱走": "./imgs/baozou.png",
+        "hahaha~~": "./imgs/hahaha.jpeg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
